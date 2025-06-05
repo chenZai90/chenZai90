@@ -7,7 +7,7 @@
 
 ## 👨‍💻 关于我 / About Me
 
-- 🎯 主攻方向 / Focus：**iOS Development with Swift / SwiftUI / RxSwift**
+- 🎯 主攻方向 / Focus：**iOS Development with Swift**
 - 🌐 曾探索 / Explored：**Frontend (HTML, CSS, Vue)**、**HarmonyOS**
 - 🔧 兴趣领域 / Interested in: **Fullstack Development** – currently learning **Java**, **Python**, **Go**
 - 📱 热爱响应式框架 / Fan of reactive frameworks like **SwiftUI**, **RxSwift**, **Flutter**
